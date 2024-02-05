@@ -15,7 +15,6 @@
 </div>
 
 ###
-<br>
 <h2 align="left">🔥 habilidades:</h2>
 
 ###
@@ -54,7 +53,6 @@
 </div>
 
 ###
-<br>
 <h2>💬 redes sociais:</h2>
 
 <div align="left">
